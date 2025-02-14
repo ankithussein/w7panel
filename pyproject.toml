@@ -1,0 +1,5 @@
+[project]
+name = "w7panel"
+version = "0.1.0"
+description = "web UI for Kubernetes clusters "
+requires-python = ">=3.10"
